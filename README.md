@@ -58,7 +58,7 @@ As I stated above, the best resources are often provided by the creators of the 
 ## Check My Work
 I used the above tutorials to create these projects and will continue to dive into these more and try integrating different features.
 
-- TBD
+- [ReactNativeLibraryProject](https://github.com/jvmontes/ReactNativeLibraryProject) - React Native project initialized using `npx react-native init ReactNativeLibraryProject` 
 
 ## **Closing Thoughts - Decisions, Decisions, Decisions**
 Look, if you're new to web development, it may surprise you that there are several decisions you need to make as you move forward and develop your application. The sheer amount of packages available on [npm](https://www.npmjs.com/) can be daunting, let alone all the [JavaScript libraries and frameworks.](https://en.wikipedia.org/wiki/List_of_JavaScript_libraries)

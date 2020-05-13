@@ -4,7 +4,7 @@ This project will contain documentation, links, and references to projects using
 ## But First, An Introduction
 Hi, my name is Jorge Viramontes. I've served as an iOS developer for over 5 years as a software consultant. I've also had experience developing web applications using Angular built on top of Typescript. The purpose of this project is to document any findings as I explore how to use React Native to build iOS and Android applications. I will explore and leverage various APIs, SDKs, and other tools to quickly build valuable features. I hope you find this valuable and insightful as you progress along your own coding journey.
 
-## Practical Adivce for the Newbie
+## Practical Advice for the Newbie
 
 My journey started with a simple Google search: "How to write iOS apps using React Native." Here's my advice on how to learn any new development tool.
 
@@ -71,7 +71,11 @@ Building apps with React Native allows us to build Android and iOS apps straight
 ## Sources
 
 Envato tuts+ Command Line Basics: https://code.tutsplus.com/tutorials/command-line-basics-and-useful-tricks-with-the-terminal--cms-29356
+
 JavaScript Course: https://www.udemy.com/course/understand-javascript/
+
 React Native Development Environment Setup: https://reactnative.dev/docs/environment-setup
+
 Cordova Architecture Diagram: https://cordova.apache.org/docs/en/latest/guide/overview/
+
 Blog on PhoneGap: https://reactorapps.io/blog/beginners-guide-to-phonegap/

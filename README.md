@@ -24,7 +24,7 @@ Okay, okay, okay. Enough chit-chat. Let's get down to the nitty gritty.
 ![Code all the things](/assets/code-all-the-things.jpg)
 
 ## What You'll Need
-I work using a MacBook Pro (13-inch, 2016). This is the only piece of hardware you will need to build applications using React Native. Having an actual device is a nice-to-have but not necessary, as there are emulators that allow you to run your mobile app on your machine. 
+I work using a MacBook Pro (13-inch, 2016). This is the only piece of hardware you will need to build applications using React Native. Having an actual mobile device for testing is a nice-to-have but not necessary, as there are emulators that allow you to run your mobile app on your machine. 
 
 If you're not familiar with Git & the terminal, I highly recommend use learn your way around that first, as it makes your development process faster and, frankly, you just look much cooler working out of a terminal. It's like you're going into the matrix. A simple Google search for "Mac terminal basic commands" yields fruitful results, such as this [tutsplus article](https://code.tutsplus.com/tutorials/command-line-basics-and-useful-tricks-with-the-terminal--cms-29356).
 

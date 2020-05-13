@@ -1,5 +1,5 @@
 # react-native-exploration
-This project will contain documentation, links, and references to projects using React Native.
+Learn how to build a React Native app from scratch.
 
 ## But First, An Introduction
 Hi, my name is Jorge Viramontes. I've served as an iOS developer for over 5 years as a software consultant. I've also had experience developing web applications using Angular built on top of Typescript. The purpose of this project is to document any findings as I explore how to use React Native to build iOS and Android applications. I will explore and leverage various APIs, SDKs, and other tools to quickly build valuable features. I hope you find this valuable and insightful as you progress along your own coding journey.
